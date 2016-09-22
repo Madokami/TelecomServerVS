@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\UDPClient\UDPClient\bin\Debug\MyUDPClient.exe
+c:\users\user\documents\visual studio 2015\Projects\UDPClient\UDPClient\bin\Debug\MyUDPClient.pdb
+c:\users\user\documents\visual studio 2015\Projects\UDPClient\UDPClient\bin\Debug\MyUDPClient.xml
+c:\users\user\documents\visual studio 2015\Projects\UDPClient\UDPClient\obj\Debug\MyUDPClient.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\UDPClient\UDPClient\obj\Debug\MyUDPClient.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\UDPClient\UDPClient\obj\Debug\MyUDPClient.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\UDPClient\UDPClient\obj\Debug\MyUDPClient.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\UDPClient\UDPClient\obj\Debug\MyUDPClient.exe
+c:\users\user\documents\visual studio 2015\Projects\UDPClient\UDPClient\obj\Debug\MyUDPClient.xml
+c:\users\user\documents\visual studio 2015\Projects\UDPClient\UDPClient\obj\Debug\MyUDPClient.pdb
